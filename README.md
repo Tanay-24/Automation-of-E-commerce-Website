@@ -56,18 +56,11 @@ It includes everything from requirements gathering to test execution and bug tra
 
 **Tanay Puranik**
 QA Engineer | Selenium | TestNG | Agile | JIRA | Cucumber
-LinkedIn Profile:(https://www.linkedin.com/in/yourprofile)
+LinkedIn Profile : https://www.linkedin.com/in/tanay-puranik-7451931b7/
 
 ## 📧 Contact
-
-📩 Email: [yourname@example.com](mailto:yourname@example.com)
-📱 Phone: +91-XXXXXXXXXX
+Email: tanay.puranik2002@gmail.com 
 
 ---
+⭐ Give this repo a star if you found it helpful.
 
-⭐ **Give this project a star** if it helped you or inspired you to build your own!
-Fork it. Run it. Test it. Break it. Fix it. Learn it.
-
----
-
-Would you like me to create a downloadable `.docx` or `.pdf` version for your GitHub repo too?
